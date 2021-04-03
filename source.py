@@ -1,4 +1,4 @@
-# shutil and os are for moving and reading files
+# shutil and os are for moving and reading files created by samridhi
 import os
 import fleep  #to detect magic no and file segragation
 import shutil
